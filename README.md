@@ -21,6 +21,8 @@ __###############################__
 
 作者联系方式： < <u>kjx52@outlook.com</u> >。
 
+***更多信息详见先知社区：《 [新一代 Windows SSH 蜜罐-Rusty_Borders 2024 危墙__v 0.3.9](https://xz.aliyun.com/t/14752) 》***
+
 *注意：本项目目前尚不兼容 SSH-Honeypot For Windows 中的 WinBacsh 终端。下一版本作者将根据反馈决定是否合并两项目。  
 
 ***
